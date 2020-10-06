@@ -59,22 +59,10 @@ html {
 .img-fluid {
     max-width: 100%;
     height: auto;
-}
-img {
-    vertical-align: middle;
     border-style: none;
-    position: absolute;
-    right: 150px;
-    width: 200px;
-    height: 120px;
-    border: 3px grey;
+
 }
-* {
-    margin: 0;
-    padding: 0;
-    font-family: 'Poppins', sans-serif;
-    box-sizing: border-box;
-}
+
 .login100-form-social-item {
     width: 36px;
     height: 36px;
@@ -142,9 +130,7 @@ img {
         padding: 0px;
         box-sizing: border-box;
     }
-    *, ::after, ::before {
-        box-sizing: inherit;
-    }
+   
     user agent stylesheet
     button {
         appearance: button;
