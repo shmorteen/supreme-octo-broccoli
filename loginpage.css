@@ -57,11 +57,10 @@ html {
     -webkit-tap-highlight-color: transparent;
 }
 .img-fluid {
-    max-width: 200%;
+    max-width: 300%;
     height: auto;
     border-style: none;
 background-position: right;
-
 
 }
 
